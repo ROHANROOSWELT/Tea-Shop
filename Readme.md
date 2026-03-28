@@ -1,2 +1,2 @@
 **Each and every object in this project are manually did by me**
-![Alt text](Tea_Shop.png)
+![Alt text](Tea_shop.png)
